@@ -1,0 +1,17 @@
+{
+  "name": "drag-and-drop",
+  "version": "1.0.0",
+  "description": "This is a typescript based project where you can create files and drag them to either an 'active' folder and drop or a 'finished' folder and drop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.2.2"
+  }
+}
